@@ -51,7 +51,7 @@ public class Hotel {
 			//}
 			return false;
 		}
-		
+		 
 	}
 	
 	public synchronized void outHotel(Guest g) throws InterruptedException{
